@@ -1,1 +1,2 @@
 # caesar-cipher-python
+The Caesar Cipher is one of the simplest and most well-known encryption techniques. It works by shifting each letter in the plaintext by a fixed number of positions down the alphabet. For example, with a shift of 3, 'A' would be encrypted to 'D', 'B' to 'E', and so on. When reaching the end of the alphabet, the cipher wraps around, so 'X' would become 'A', 'Y' would become 'B', and 'Z' would become 'C'.

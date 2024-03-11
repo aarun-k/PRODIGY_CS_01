@@ -10,7 +10,7 @@ Here's how the Caesar Cipher algorithm works:
 **Caesar Cipher Encryption and Decryption**
 - The caesar_cipher_encrypt and caesar_cipher_decrypt functions now include docstrings to provide detailed explanations of their purpose, parameters, and return values.
 
-* Inside the functions, we've introduced comments to explain the logic of the code more clearly. The ASCII offset is determined based on the case of the letter (uppercase or lowercase), and the Caesar Cipher shift is applied accordingly.
+* The ASCII offset is determined based on the case of the letter (uppercase or lowercase), and the Caesar Cipher shift is applied accordingly.
 
 + The main function's docstring explains its purpose, which is to allow the user to input a message and a shift value to perform encryption and decryption using the Caesar Cipher algorithm.
 
